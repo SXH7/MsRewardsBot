@@ -4,5 +4,6 @@ A script that will automate microsoft rewards PC searches and mobile searches. <
 Will add a random string generater next.
 
 
-UPDATE
+# UPDATE
+
 The repo is no longer being mantained. Will likely no longer work.
